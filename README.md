@@ -13,3 +13,9 @@ Aplok Guns - крутий мод із опрацьованими зброями 
 ![](images/1720616323_aplok-guns.jpg)
 ## Simple Arsenal Early Access
 Цей мод є одним з найпередовіших шутер-аддонів для Майнкрафт ПЕ (Бідрок). Зброя представлена ​​у повноцінному 3D-форматі, не втрачає форму в руках та підтримує реалістичну фізику стрілянини. Різні режими прицілювання, тактичні та автоматичні перезарядки роблять стрілянину ще динамічнішою.
+<br><br>
+![](images/1742497032_simple-arsenal.jpg)
+## Завантажити
+| Версія Minecraft Bedrock Edition (PE) | Завантажити |
+|---|---|
+| 1.21.72 і вище | [Counter-Strike_1.6.mcaddon](https://github.com/uzvarUA/Counter-Strike-1_6/releases/download/Counter-Strike/Counter-Strike_1.6.mcaddon)
